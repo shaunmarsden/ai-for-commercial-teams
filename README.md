@@ -6,6 +6,8 @@ This project is a practical starting point for commercial teams that want more t
 
 It is for sales leaders, sales operations people, account executives, solutions consultants and customer success teams. It works with the tool your organisation already approves.
 
+**New here?** [Start Here](START-HERE.md) gives you a route for fifteen minutes, an hour with a team or a first month of testing.
+
 ## Choose Your Starting Point
 
 | This sounds like you | Start here |
@@ -14,6 +16,31 @@ It is for sales leaders, sales operations people, account executives, solutions 
 | I use it now and then but it is inconsistent | [Make It Repeatable](guides/make-it-repeatable.md) |
 | I am confident but my team is not | [Run a First Team Session](workshops/first-team-session.md) |
 | I lead the team and need a sensible adoption plan | [Manager Playbook](guides/manager-playbook.md) |
+
+## First 30 Days Toolkit
+
+Use these when you want to go beyond a one off prompt without jumping into a big rollout.
+
+| You need to | Use this |
+| --- | --- |
+| Understand where the team is starting from | [Team Adoption Pulse](templates/team-adoption-pulse.md) |
+| Get more from the one tool you already have | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) |
+| Test one use case with a small group | [Run A Team Experiment](guides/run-a-team-experiment.md) and the [Use Case Experiment](templates/use-case-experiment.md) |
+| Decide what the test actually showed | [Team Experiment Review Check](checks/team-experiment-review.md) |
+| Capture learning and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
+| Share a method that has earned its place | [Team Playbook Entry](templates/team-playbook.md) |
+
+See the [fictional Northstar first month review](examples/northstar-first-month-review.md) for a complete example of the route in action.
+
+## A Shared Asset You Can Try
+
+[Call Follow Up Draft](shared-assets/call-follow-up-draft/README.md) is a complete example of a team method that has earned its place through a fictional repeat test. It includes the prompt, the quality check and an honest account of what the team did not prove.
+
+## Help Make It Better
+
+Tried something here, or got stuck? You do not need to write a long review. Use the [short feedback form](https://github.com/shaunmarsden/ai-for-commercial-teams/issues/new?template=feedback.yml) to tell me what helped, what was unclear and whether it felt worth the effort. Please do not include customer, employer, confidential or personal information.
+
+You can also see [what the form asks](feedback/README.md) before you start.
 
 ## The Simple Model
 
@@ -31,7 +58,8 @@ It is for sales leaders, sales operations people, account executives, solutions 
 - A private context card that helps an AI understand a role without adding sensitive data
 - A first team session guide that does not require a large training programme
 - A manager playbook, team learning log and shared asset check
-- A fictional 30 day adoption plan
+- A first 30 days toolkit for small, evidence led team experiments
+- Fictional examples of a 30 day plan and first month review
 - A safety check for commercial use
 
 ## For Managers
