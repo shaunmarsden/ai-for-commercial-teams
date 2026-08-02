@@ -13,7 +13,7 @@ It is for sales leaders, sales operations people, account executives, solutions 
 | I have barely used AI at work | [Starting From Scratch](guides/starting-from-scratch.md) |
 | I use it now and then but it is inconsistent | [Make It Repeatable](guides/make-it-repeatable.md) |
 | I am confident but my team is not | [Run a First Team Session](workshops/first-team-session.md) |
-| I lead the team and need a sensible adoption plan | [Northstar Thirty Day Plan](examples/northstar-thirty-day-plan.md) |
+| I lead the team and need a sensible adoption plan | [Manager Playbook](guides/manager-playbook.md) |
 
 ## The Simple Model
 
@@ -30,8 +30,15 @@ It is for sales leaders, sales operations people, account executives, solutions 
 - A starting route for individuals and teams
 - A private context card that helps an AI understand a role without adding sensitive data
 - A first team session guide that does not require a large training programme
+- A manager playbook, team learning log and shared asset check
 - A fictional 30 day adoption plan
 - A safety check for commercial use
+
+## For Managers
+
+The [Manager Playbook](guides/manager-playbook.md) gives you a simple route from a first session to a method that might be worth sharing across the team. It includes a [team learning log](templates/team-learning-log.md), a guide for [improving a weak first prompt](guides/improve-a-first-prompt.md) and a [shared team asset check](checks/shared-team-asset-check.md).
+
+See the [fictional Northstar manager review](examples/northstar-manager-review.md) for an honest example of what a first round of testing can and cannot show.
 
 ## What This Is Not
 

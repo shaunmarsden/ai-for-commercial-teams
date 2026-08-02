@@ -13,6 +13,16 @@ By the end, each person has tried one safe commercial task, checked the result a
 - One ordinary sales task
 - A way to record what worked and what did not
 
+## A 45 Minute Shape
+
+| Time | Do this |
+| --- | --- |
+| First 5 minutes | Agree the information boundary and the purpose of the session |
+| Next 5 minutes | Choose one ordinary commercial job |
+| Next 15 minutes | Run a rough first attempt on a fictional or safe sample |
+| Next 10 minutes | Improve the input, output format and human check, then compare |
+| Final 10 minutes | Capture learning and agree one small volunteer test |
+
 ## Run the Session
 
 ### Start With the Boundary

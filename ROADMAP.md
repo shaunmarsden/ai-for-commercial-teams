@@ -2,14 +2,13 @@
 
 ## Next Foundations
 
-- A team learning log that records useful examples without becoming a surveillance tool
-- A manager guide for helping people improve a weak first prompt
 - A route for teams using only one approved tool
+- A worked example of a shared team asset that has earned its place
+- A practical guide for teams that only have Copilot or another single approved tool
 
 ## Only After Team Evidence
 
 - A downloadable team starter pack
-- Tool specific setup guides
 - A manager dashboard
 - A structured skills library
 
