@@ -30,11 +30,13 @@ Use these when you want to go beyond a one off prompt without jumping into a big
 | Capture learning and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
 | Share a method that has earned its place | [Team Playbook Entry](templates/team-playbook.md) |
 
-See the [fictional Northstar first month review](examples/northstar-first-month-review.md) for a complete example of the route in action.
+See the [fictional Northstar sales first month review](examples/northstar-first-month-review.md) or the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md) for complete examples of the route in action.
 
 ## A Shared Asset You Can Try
 
 [Call Follow Up Draft](shared-assets/call-follow-up-draft/README.md) is a complete example of a team method that has earned its place through a fictional repeat test. It includes the prompt, the quality check and an honest account of what the team did not prove.
+
+[Account Review Brief](shared-assets/account-review-brief/README.md) shows the same idea in Customer Success. It helps prepare an internal account discussion while keeping account judgement, commercial decisions and customer contact with the person responsible.
 
 ## Help Make It Better
 
@@ -59,7 +61,7 @@ You can also see [what the form asks](feedback/README.md) before you start.
 - A first team session guide that does not require a large training programme
 - A manager playbook, team learning log and shared asset check
 - A first 30 days toolkit for small, evidence led team experiments
-- Fictional examples of a 30 day plan and first month review
+- Fictional examples of a 30 day plan and first month reviews for sales and Customer Success
 - A safety check for commercial use
 
 ## For Managers
