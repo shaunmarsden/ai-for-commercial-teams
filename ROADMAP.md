@@ -2,7 +2,6 @@
 
 ## Next Foundations
 
-- A second fictional example for a customer success or sales operations team
 - A lightweight way for teams to share what they tested without sharing customer data
 
 ## Only After Team Evidence
@@ -25,6 +24,7 @@
 - A two week use case experiment, review check and monthly review template
 - A shared team asset check and playbook template
 - A complete shared asset for drafting a call follow up
+- A second worked example for Customer Success, including an account review brief and an honest first month review
 - A short public feedback route that does not ask people for customer information
 
 The test is whether people use this to do better work, not whether the project contains more pages.
