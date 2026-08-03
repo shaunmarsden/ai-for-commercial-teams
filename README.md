@@ -86,3 +86,7 @@ The useful habit is simple: use approved information, check the output and keep 
 This is a practical foundation. The examples are fictional and the routes are hypotheses to test with real teams. They do not prove adoption or productivity impact yet.
 
 See the [roadmap](ROADMAP.md) for the next pieces worth building.
+
+## Part of a Family
+
+This is one of four free tools for commercial teams experimenting with AI. **AI for Commercial Teams** is the starting point for adopting AI as a team; [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) practises the conversations themselves; [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether an AI tool actually helps with a task; [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague ambition into a real first test.
