@@ -12,19 +12,27 @@ The team started with fictional account notes. During the following two weeks, f
 
 They checked every statement against the source notes. They would not use the tool to assess account health, predict a renewal, contact a customer, change a CRM record or decide a commercial action.
 
+## What One Test Actually Looked Like
+
+A volunteer, Aisha, prepared a brief for Ferrymoor Insurance ahead of a quarterly review. Her notes: "Ferrymoor's usual contact has been on leave for three weeks; a junior team member has been logging in instead, less often than usual." The first draft read: "Account health: at risk. Reduced engagement and an absent primary contact suggest a weakening relationship."
+
+That was the same problem the team had been warned about: a quiet period had become a confident risk label, with nothing in the notes that actually supported it.
+
 ## What Happened
 
 | What the group found | What it meant |
 | --- | --- |
 | The brief made open actions and missing owners easier to see | The job was useful enough for another test |
-| The first prompt treated a quiet customer as a possible risk too confidently | The wording needed to turn weak signals into questions to check |
+| The first prompt treated a quiet customer as a possible risk too confidently, as in Aisha's "at risk" label for Ferrymoor | The wording needed to turn weak signals into questions to check |
 | Three volunteers used the revised method again | There was some repeat use, not proof of wider adoption |
 | One volunteer preferred a handwritten agenda for smaller accounts | The method stayed optional and situational |
 | The final agenda gave weekly reviews a clearer shape | The output was helping a real part of the team's work |
 
+Aisha's revised brief dropped the health label and read instead: "Usual contact has been away for three weeks; a junior colleague has logged in less often in that time. Worth checking whether this is simply cover during leave or a sign the relationship needs attention."
+
 ## The Honest Review
 
-**What the team could say:** A short first draft helped some volunteers organise an internal account review. Making uncertainty visible stopped the output being mistaken for account judgement.
+**What the team could say:** A short first draft helped some volunteers organise an internal account review. Making uncertainty visible stopped the output being mistaken for account judgement, and it caught a real instance, Ferrymoor's absent contact, where a gap in information had been read as a risk.
 
 **What the team could not say:** It had not proven that reviews were faster, that renewals would improve or that the team should use one method for every account.
 

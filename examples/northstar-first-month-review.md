@@ -10,19 +10,27 @@ The team agreed to use fictional material in the first session. In the following
 
 They would not upload customer call recordings, use the tool to decide an offer or let it send emails.
 
+## What One Test Actually Looked Like
+
+One volunteer, Rhys, used the method after a call with Colston Retail Group about a delayed delivery. His notes: "Colston asked when the replacement stock would ship. Said we're hoping to get it out by Friday, nothing confirmed with the warehouse yet."
+
+The first draft turned that into: "As confirmed, your replacement stock will ship this Friday." "Hoping to" had become "confirmed," and nobody had actually checked with the warehouse.
+
 ## What Happened
 
 | What the group found | What it meant |
 | --- | --- |
 | The first drafts gave people a useful structure | The job was worth another test |
-| The drafts occasionally made weak notes sound more certain than they were | The prompt needed an explicit instruction to flag assumptions |
+| The drafts occasionally made weak notes sound more certain than they were, as in Rhys's "hoping to" becoming "confirmed" | The prompt needed an explicit instruction to flag assumptions |
 | Two volunteers used the revised method a second time | There was some repeat use, not proof of team wide adoption |
 | One person still preferred their normal process | The team kept the method optional rather than presenting it as best practice |
 | The manager could see where people were getting stuck | The next session could focus on safe input and checking |
 
+After the prompt change, Rhys's second draft read: "I'm chasing a firm ship date for your replacement stock and will confirm as soon as I have it, hoping for Friday." Nothing stated as done until it actually was.
+
 ## The Honest Review
 
-**What the team could say:** A short, structured first draft helped some volunteers organise an ordinary follow up task. Adding an assumptions check made the output easier to review.
+**What the team could say:** A short, structured first draft helped some volunteers organise an ordinary follow up task. Adding an assumptions check made the output easier to review, and it caught a real case, Rhys's shipping date, where a hope had turned into a promise.
 
 **What the team could not say:** It had not proven a productivity saving, improved conversion or a case for a wider rollout. It had only been tested by a few volunteers over a short period.
 
