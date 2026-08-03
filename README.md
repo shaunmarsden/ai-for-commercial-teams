@@ -54,6 +54,8 @@ You can also see [what the form asks](feedback/README.md) before you start.
 | Improve | Did it save time, improve quality or expose a gap? |
 | Govern | What must remain with a person or stay out of the tool? |
 
+[![A practical model for commercial AI adoption](assets/diagrams/29-ai-for-commercial-teams.svg)](START-HERE.md)
+
 ## What Is Here
 
 - A starting route for individuals and teams
