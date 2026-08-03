@@ -30,7 +30,7 @@ Use these when you want to go beyond a one off prompt without jumping into a big
 | Capture learning and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
 | Share a method that has earned its place | [Team Playbook Entry](templates/team-playbook.md) |
 
-See the [fictional Northstar sales first month review](examples/northstar-first-month-review.md) or the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md) for complete examples of the route in action.
+See the [fictional Northstar sales first month review](examples/northstar-first-month-review.md), the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md), or the [fictional thirty day plan](examples/northstar-thirty-day-plan.md) that shows the toolkit's three stages in sequence, for complete examples of the route in action.
 
 ## A Shared Asset You Can Try
 
@@ -59,7 +59,7 @@ You can also see [what the form asks](feedback/README.md) before you start.
 ## What Is Here
 
 - A starting route for individuals and teams
-- A private context card that helps an AI understand a role without adding sensitive data
+- A private [context card](templates/team-context-card.md) that helps an AI understand a role without adding sensitive data
 - A first team session guide that does not require a large training programme
 - A manager playbook, team learning log and shared asset check
 - A first 30 days toolkit for small, evidence led team experiments
