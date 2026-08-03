@@ -6,10 +6,10 @@ Pick the sentence that sounds most like your team and follow that route.
 
 | Your starting point | Go here | What you will leave with |
 | --- | --- | --- |
-| “I want to try one useful thing safely.” | [Starting From Scratch](guides/starting-from-scratch.md) | One small job and a way to check the output |
-| “We already use one approved AI tool.” | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) | A simple method for getting more from the tool you have |
-| “A few people are trying things, but none of it is joined up.” | [Run a Team Experiment](guides/run-a-team-experiment.md) | A two week test that produces useful learning |
-| “I lead the team and need a sensible route forward.” | [Manager Playbook](guides/manager-playbook.md) | A way to support learning without making it a big programme |
+| "I want to try one useful thing safely." | [Starting From Scratch](guides/starting-from-scratch.md) | One small job and a way to check the output |
+| "We already use one approved AI tool." | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) | A simple method for getting more from the tool you have |
+| "A few people are trying things, but none of it is joined up." | [Run a Team Experiment](guides/run-a-team-experiment.md) | A two week test that produces useful learning |
+| "I lead the team and need a sensible route forward." | [Manager Playbook](guides/manager-playbook.md) | A way to support learning without making it a big programme |
 
 ## If You Have Fifteen Minutes
 
@@ -44,6 +44,6 @@ Use the [First 30 Days Toolkit](#first-30-days-toolkit). It helps a small group 
 
 ## A Useful Rule
 
-Do not ask whether AI is “working” for the whole team. Ask whether a specific person used it to do one specific job more clearly, more quickly or more consistently, while keeping the right human checks.
+Do not ask whether AI is "working" for the whole team. Ask whether a specific person used it to do one specific job more clearly, more quickly or more consistently, while keeping the right human checks.
 
 That gives you something real to learn from.

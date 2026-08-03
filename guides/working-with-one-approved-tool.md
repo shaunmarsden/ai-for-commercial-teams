@@ -40,7 +40,7 @@ Add the approved information beneath it. Save a copy of what worked in your own 
 
 ## Make The Tool Fit Your Team
 
-When someone says, “That answer was not very good,” do not jump straight to a different model. Ask four simpler questions:
+When someone says, "That answer was not very good," do not jump straight to a different model. Ask four simpler questions:
 
 1. Was the job clear enough?
 2. Did it have the information it needed?

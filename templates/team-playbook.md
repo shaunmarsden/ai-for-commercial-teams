@@ -52,4 +52,4 @@ Describe the useful output shape. For example, a short call card, an internal su
 
 **What still needs improvement:**
 
-Use [Shared Team Asset Check](../checks/shared-team-asset-check.md) before changing the status to “Shared team method”.
+Use [Shared Team Asset Check](../checks/shared-team-asset-check.md) before changing the status to "Shared team method".
