@@ -1,6 +1,6 @@
 # Feedback
 
-You do not need to write a detailed review. A quick “this bit helped” or “I got stuck here” is genuinely useful.
+You do not need to write a detailed review. A quick "this bit helped" or "I got stuck here" is genuinely useful.
 
 ## The Easy Option
 

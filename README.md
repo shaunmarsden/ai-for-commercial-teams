@@ -2,7 +2,7 @@
 
 Your company may already have AI licences. That does not mean people know where to start, what information is safe to use or how to turn a useful one off prompt into a better way of working.
 
-This project is a practical starting point for commercial teams that want more than “go and have a play”.
+This project is a practical starting point for commercial teams that want more than "go and have a play".
 
 It is for sales leaders, sales operations people, account executives, solutions consultants and customer success teams. It works with the tool your organisation already approves.
 

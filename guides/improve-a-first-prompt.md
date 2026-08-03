@@ -18,16 +18,16 @@ A weak first prompt is normal. Treat it as a draft of a working method, not proo
 Ask the person to rewrite the prompt in four parts:
 
 1. **The job**
-   “Turn these approved call notes into a short follow up draft.”
+   "Turn these approved call notes into a short follow up draft."
 
 2. **The input**
-   “Use only the notes below. Treat anything missing as unknown.”
+   "Use only the notes below. Treat anything missing as unknown."
 
 3. **The output**
-   “Give me a three point summary, action list and email draft.”
+   "Give me a three point summary, action list and email draft."
 
 4. **The check**
-   “Do not invent commitment, urgency, budget or customer intent. I will check every line before sending.”
+   "Do not invent commitment, urgency, budget or customer intent. I will check every line before sending."
 
 ## Compare, Do Not Guess
 

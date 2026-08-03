@@ -26,7 +26,7 @@ Copy this into your approved AI tool. Replace the text in square brackets and ad
 
 The prompt will not rescue vague notes. A useful input usually states:
 
-- the customer’s question or priority;
+- the customer's question or priority;
 - what was discussed;
 - what was clearly agreed;
 - what is still open; and

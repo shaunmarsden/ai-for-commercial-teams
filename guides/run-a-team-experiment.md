@@ -33,7 +33,7 @@ It is not a good first experiment if it makes customer commitments, changes syst
 3. Record what the AI got right, what it got wrong and what input made the difference.
 4. Improve the method once. Do not keep changing five things at the same time.
 
-The useful question is not “Was it amazing?” It is “What did it actually help with?”
+The useful question is not "Was it amazing?" It is "What did it actually help with?"
 
 ## Week Two: Repeat Or Stop
 

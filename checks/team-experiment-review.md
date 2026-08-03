@@ -1,6 +1,6 @@
 # Team Experiment Review Check
 
-Use this at the end of a small test. A yes answer does not automatically mean “roll it out”. It means there is enough evidence for the next sensible step.
+Use this at the end of a small test. A yes answer does not automatically mean "roll it out". It means there is enough evidence for the next sensible step.
 
 | Check | Yes / No / Unclear | Notes |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Manager Playbook
 
-This is for the manager who has people asking, “What should I actually use AI for?” and does not want to answer with either a blanket ban or a motivational speech.
+This is for the manager who has people asking, "What should I actually use AI for?" and does not want to answer with either a blanket ban or a motivational speech.
 
 The aim is to help a team learn one useful way of working at a time, without turning the exercise into performance monitoring, a large change programme or an unapproved technology project.
 
@@ -53,7 +53,7 @@ At the end of a test, ask:
 4. Would another person understand how to use this?
 5. Is it safe and useful enough to test again?
 
-If the answer is “not really”, that is a useful result. Capture it and move on.
+If the answer is "not really", that is a useful result. Capture it and move on.
 
 ## Help Someone Improve a Weak First Prompt
 
