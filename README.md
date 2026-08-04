@@ -6,16 +6,7 @@ This project is a practical starting point for commercial teams that want more t
 
 It is for sales leaders, sales operations people, account executives, solutions consultants and customer success teams. It works with the tool your organisation already approves.
 
-**New here?** [Start Here](START-HERE.md) gives you a route for fifteen minutes, an hour with a team or a first month of testing.
-
-## Choose Your Starting Point
-
-| This sounds like you | Start here |
-| --- | --- |
-| I have barely used AI at work | [Starting From Scratch](guides/starting-from-scratch.md) |
-| I use it now and then but it is inconsistent | [Make It Repeatable](guides/make-it-repeatable.md) |
-| I am confident but my team is not | [Run a First Team Session](workshops/first-team-session.md) |
-| I lead the team and need a sensible adoption plan | [Manager Playbook](guides/manager-playbook.md) |
+**New here?** [Start Here](START-HERE.md) picks your route: never used AI for this, using one tool but nothing is repeatable, a few people experimenting without coordination, or leading the whole team. It also covers what to do with fifteen minutes, an hour with a team, or a first month of testing.
 
 ## First 30 Days Toolkit
 
@@ -89,4 +80,13 @@ See the [roadmap](ROADMAP.md) for the next pieces worth building.
 
 ## Part of a Family
 
-This is one of four free tools for commercial teams experimenting with AI, generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). **AI for Commercial Teams** is the starting point for adopting AI as a team; [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) practises the conversations themselves; [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether an AI tool actually helps with a task; [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague ambition into a real first test.
+Four free tools for commercial teams experimenting with AI, all generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows).
+
+| Tool | Open it when |
+| --- | --- |
+| [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams) (you are here) | You are setting this up for a team, not just yourself |
+| [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) | You have a vague idea AI might help and need to turn it into one testable change |
+| [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) | You already know the task and want to know whether a specific AI tool actually helps with it |
+| [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) | You want to practise the sales conversations themselves, not test AI tooling |
+
+New to all four? Start with [AI for Commercial Teams](https://github.com/shaunmarsden/ai-for-commercial-teams).
