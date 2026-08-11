@@ -11,6 +11,7 @@ Pick the sentence that sounds most like your team and follow that route.
 | "We already use one approved AI tool, just not well." | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) | A simple method for getting more from the tool you have |
 | "A few people are trying things, but none of it is joined up." | [Run a Team Experiment](guides/run-a-team-experiment.md) | A two week test that produces useful learning |
 | "I lead the team and need a sensible route forward." | [Manager Playbook](guides/manager-playbook.md) | A way to support learning without making it a big programme |
+| "We want to connect AI to another tool." | [Evaluate an AI Connection](guides/evaluate-an-ai-connection.md) | A safe decision about what the connection should read, change and prove |
 
 ## If You Have Fifteen Minutes
 
@@ -42,6 +43,7 @@ Use the [First 30 Days Toolkit](#first-30-days-toolkit). It helps a small group 
 | [Experiment Review Check](checks/team-experiment-review.md) | You are deciding whether to keep, improve or stop a method |
 | [Monthly Team Review](templates/monthly-team-review.md) | You want to turn the learning into a sensible next step |
 | [Team Playbook](templates/team-playbook.md) | A method has been useful enough to share with others |
+| [AI Connection Evaluation](templates/ai-connection-evaluation.md) | You are considering an API, plugin, MCP server or other connection |
 
 ## A Useful Rule
 

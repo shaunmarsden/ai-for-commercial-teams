@@ -17,6 +17,7 @@ Use these when you want to go beyond a one off prompt without jumping into a big
 | Understand where the team is starting from | [Team Adoption Pulse](templates/team-adoption-pulse.md) |
 | Get more from the one tool you already have | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) |
 | Test one use case with a small group | [Run A Team Experiment](guides/run-a-team-experiment.md) and the [Use Case Experiment](templates/use-case-experiment.md) |
+| Decide whether an AI connection is worth the risk | [Evaluate an AI Connection](guides/evaluate-an-ai-connection.md), the [Connection Check](checks/ai-connection-check.md) and the [Evaluation Card](templates/ai-connection-evaluation.md) |
 | Decide what the test actually showed | [Team Experiment Review Check](checks/team-experiment-review.md) |
 | Capture learning and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
 | Share a method that has earned its place | [Team Playbook Entry](templates/team-playbook.md) |
@@ -54,6 +55,7 @@ You can also see [what the form asks](feedback/README.md) before you start.
 - A first team session guide that does not require a large training programme
 - A manager playbook, team learning log and shared asset check
 - A first 30 days toolkit for small, evidence led team experiments
+- A guide and evaluation card for connecting AI to other tools safely
 - Fictional examples of a 30 day plan and first month reviews for sales and Customer Success
 - A safety check for commercial use
 
