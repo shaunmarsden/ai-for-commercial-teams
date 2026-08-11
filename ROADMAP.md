@@ -23,6 +23,7 @@
 - A first team session and manager playbook
 - A two week use case experiment, review check and monthly review template
 - A shared team asset check and playbook template
+- A guide, check and evaluation card for deciding whether an AI connection is safe and useful
 - A complete shared asset for drafting a call follow up
 - A second worked example for Customer Success, including an account review brief and an honest first month review
 - A short public feedback route that does not ask people for customer information
