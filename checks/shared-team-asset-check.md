@@ -8,7 +8,7 @@ Before sharing a prompt, skill, checklist or template as a team method, check ev
 | The job is specific enough to recognise |  |
 | The safe inputs are clear |  |
 | The output format is easy to check |  |
-| Common failure modes are recorded |  |
+| The common ways it goes wrong are written down |  |
 | A person owns the final decision and action |  |
 | No customer message or system change happens automatically |  |
 | An owner will review it again |  |

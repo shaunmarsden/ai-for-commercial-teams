@@ -2,7 +2,7 @@
 
 > Fictional example. Northstar, its team, customers and activity are invented.
 
-Northstar's customer success team wanted a quicker way to prepare for its weekly internal account review. The team did not ask the AI tool to score account health. It tested whether a structured first draft helped people see what was known, what was open and what still needed judgement.
+Northstar's customer success team wanted a quicker way to prepare for its weekly internal account review. The team didn't ask the AI tool to score account health. It tested whether a structured first draft helped people see what was known, what was open and what still needed judgement.
 
 ## The First Test: What Actually Happened
 
@@ -12,7 +12,7 @@ Marcus, a customer success manager, used the method ahead of a review for Thacke
 
 > Thackeray Logistics, contract renews in three months. Daily active users dropped from four to two over the last six weeks. No support tickets raised in that time. Last QBR was five months ago; the only note from it is "call went fine."
 
-**First draft (Version 1), what the tool actually produced:**
+**First draft (Version 1), as the tool produced it:**
 
 > **Account at a glance:** Thackeray Logistics, renewal in three months.
 >
@@ -20,7 +20,7 @@ Marcus, a customer success manager, used the method ahead of a review for Thacke
 >
 > **Open actions:** none confirmed.
 
-**What was wrong with it:** the brief labelled the account "at risk," which the prompt explicitly rules out ("Do not label an account healthy, at risk or likely to renew"). A drop in logins and a quiet stakeholder are real signals worth checking, but the draft turned them into a conclusion nobody had actually reached.
+**What was wrong with it:** the brief labelled the account "at risk," which the prompt rules out ("Do not label an account healthy, at risk or likely to renew"). A drop in logins and a quiet stakeholder are real signals worth checking. But the draft turned them into a conclusion nobody had reached.
 
 ## The Second Test
 
@@ -45,7 +45,7 @@ Four volunteers used fictional account notes in the first session, then tried th
 
 ## Why It Earned A Place
 
-The method helped more than one person prepare an internal discussion. The safe input, useful output and human check were clear. The team could name its most common error, Marcus's "at risk" label being the reference case, and explain what the tool must not decide.
+The method helped more than one person prepare an internal discussion. The safe input, useful output and human check were clear. The team could name its most common error, with Marcus's "at risk" label as the reference case, and explain what the tool must not decide.
 
 It became an optional shared method for preparing internal account reviews. The account owner still decided whether an account was healthy, what mattered most and what should happen next.
 
@@ -56,4 +56,4 @@ It became an optional shared method for preparing internal account reviews. The 
 - That the team should use the same method for every customer.
 - That a summary can replace the account owner's judgement or customer conversation.
 
-The useful evidence was modest: several people found the structure helpful, caught a real instance of a weak signal being overstated, and knew where the human decision still sat.
+The evidence was modest. Several people found the structure helpful. They caught a real case of the tool overstating a weak signal, and they knew where the human decision still sat.

@@ -1,6 +1,6 @@
 # Starting From Scratch
 
-Do not begin by trying to automate a whole sales process. Pick one task that already happens and is safe to practise on.
+Don't start by trying to automate a whole sales process. Pick one task that already happens and is safe to practise on.
 
 Good early tasks:
 
@@ -14,7 +14,7 @@ Good early tasks:
 
 Tell the AI:
 
-1. who you are and what you are trying to do;
+1. who you are and what you're trying to do;
 2. the information it may use;
 3. what a useful output looks like;
 4. what it must not invent; and
@@ -28,9 +28,9 @@ Example:
 
 Ask yourself:
 
-- Is every claimed fact actually in the input?
+- Is every fact it claims in the input?
 - Did it make an assumption sound certain?
-- Would I be comfortable saying this to a customer?
-- Does it include information that should not be in this tool?
+- Would I be happy saying this to a customer?
+- Does it include information that shouldn't be in this tool?
 
-If the answer is unclear, do not use the output as it stands. Edit it, remove it or start again with safer input.
+If you're not sure, don't use the output as it is. Edit it, remove it, or start again with safer input.

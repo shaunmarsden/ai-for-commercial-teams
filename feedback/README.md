@@ -1,6 +1,6 @@
 # Feedback
 
-You do not need to write a detailed review. A quick "this bit helped" or "I got stuck here" is genuinely useful.
+You don't need to write a detailed review. A quick "this bit helped" or "I got stuck here" is useful.
 
 ## The Easy Option
 
@@ -15,14 +15,14 @@ It asks four things:
 
 ## If You Are Not Ready To Try It Yet
 
-You can still say what would make this more useful for your role. For example:
+You can still tell me what would make this more useful for your role. For example:
 
 > I would use this for [job]. I need help with [part of the job]. I am unsure about [thing that puts you off].
 
-That is enough to improve the next version.
+That's enough to improve the next version.
 
 ## Keep It Safe
 
-Do not add customer, employer, confidential or personal information to a public issue. Describe the type of job and the point where you got stuck instead.
+Don't add customer, employer, confidential or personal information to a public issue. Describe the type of job and where you got stuck instead.
 
-If you are adapting this inside your own organisation, use the feedback route your organisation has approved.
+If you're adapting this inside your own organisation, use the feedback route your organisation has approved.
