@@ -1,6 +1,6 @@
 # Account Review Brief
 
-This shared asset helps a customer success person turn approved account notes into a short brief for an internal review. It helps organise the picture before the conversation. It does not decide an account's health, renewal likelihood or next commercial move.
+This shared asset helps a customer success person turn approved account notes into a short brief for an internal review. It sorts out the picture before the conversation. It doesn't decide an account's health, how likely it is to renew or the next commercial move.
 
 ## Use This When
 
@@ -10,40 +10,40 @@ This shared asset helps a customer success person turn approved account notes in
 
 ## Do Not Use This When
 
-- the information should not be put into the tool;
+- the information shouldn't go into the tool;
 - the notes are too thin to support a sensible summary;
 - you need the tool to judge customer health, decide renewal risk or recommend a commercial commitment; or
 - you want it to update a CRM, contact a customer or trigger an action.
 
 ## What To Provide
 
-1. A short account description, only if approved for the tool.
+1. A short account description, only if the tool is approved for it.
 2. The approved notes or safely sanitised material.
 3. Confirmed outcomes, actions and dates, where they exist.
 4. Any specific question the internal meeting needs to answer.
 
-If a detail is missing, leave it missing. The method should flag the gap rather than fill it in.
+If a detail is missing, leave it missing. The method should flag the gap, not fill it in.
 
 ## Use It In Three Steps
 
 1. Copy the [prompt](prompt.md) into your approved AI tool and add only safe information.
 2. Read the draft as a working brief, not as a decision.
-3. Run the [quality check](quality-check.md), correct it against the source notes and decide what the team will do next.
+3. Run the [quality check](quality-check.md), correct the brief against the source notes and decide what the team will do next.
 
 ## What It Produces
 
-- a concise account summary grounded in the notes;
+- a short account summary based on the notes;
 - confirmed progress, open actions and known owners;
-- risks or gaps stated as questions to check, not conclusions; and
+- risks or gaps put as questions to check, not conclusions; and
 - a short agenda for the internal review.
 
 ## What A Person Still Does
 
-The account owner decides what the notes mean, checks every claim, judges the relationship, agrees the next move and communicates with the customer. The method does none of those things automatically.
+The account owner decides what the notes mean, checks every claim, judges the relationship, agrees the next move and talks to the customer. The method does none of those things.
 
 ## What We Learned Before Sharing It
 
-See the [fictional Northstar asset review](example.md). It shows the method being improved after a small team test. It is an example of the evidence worth looking for, not proof that every team should use it.
+The [fictional Northstar asset review](example.md) shows the team improving the method after a small test. It's an example of the evidence worth looking for, not proof that every team should use it.
 
 ## Keep It Current
 

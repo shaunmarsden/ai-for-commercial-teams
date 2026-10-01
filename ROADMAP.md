@@ -12,7 +12,7 @@
 ## Later Expansions
 
 - Role specific starting routes for account executives, sales operations, customer success and commercial leaders
-- A shared asset library of methods that have earned their place through repeated team use
+- A shared asset library of methods that have proved useful in repeated team use
 - A lightweight manager dashboard, once there is real evidence worth reviewing
 - More worked examples from different commercial teams, using fictional or safely sanitised material
 
@@ -25,7 +25,7 @@
 - A shared team asset check and playbook template
 - A guide, check and evaluation card for deciding whether an AI connection is safe and useful
 - A complete shared asset for drafting a call follow up
-- A second worked example for Customer Success, including an account review brief and an honest first month review
+- A second worked example for Customer Success, with an account review brief and a first month review
 - A short public feedback route that does not ask people for customer information
 
-The test is whether people use this to do better work, not whether the project contains more pages.
+The test is whether people use this to do better work, not whether the project has more pages.

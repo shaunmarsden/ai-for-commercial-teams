@@ -1,6 +1,6 @@
 # Start Here
 
-You do not need a new AI platform, a transformation project or a library of clever prompts to begin.
+You don't need a new AI platform, a transformation project or a library of clever prompts to begin.
 
 Pick the sentence that sounds most like your team and follow that route.
 
@@ -8,8 +8,8 @@ Pick the sentence that sounds most like your team and follow that route.
 | --- | --- | --- |
 | "I have not really used AI for this yet." | [Starting From Scratch](guides/starting-from-scratch.md) | One small job and a way to check the output |
 | "I use it now and then, but nothing about it is repeatable." | [Make It Repeatable](guides/make-it-repeatable.md) | A way to turn a prompt that worked once into a method that works again |
-| "We already use one approved AI tool, just not well." | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) | A simple method for getting more from the tool you have |
-| "A few people are trying things, but none of it is joined up." | [Run a Team Experiment](guides/run-a-team-experiment.md) | A two week test that produces useful learning |
+| "We already use one approved AI tool, just not well." | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) | A simple way to get more from the tool you have |
+| "A few people are trying things, but none of it is joined up." | [Run a Team Experiment](guides/run-a-team-experiment.md) | A two week test that teaches you something useful |
 | "I lead the team and need a sensible route forward." | [Manager Playbook](guides/manager-playbook.md) | A way to support learning without making it a big programme |
 | "We want to connect AI to another tool." | [Evaluate an AI Connection](guides/evaluate-an-ai-connection.md) | A safe decision about what the connection should read, change and prove |
 
@@ -21,32 +21,32 @@ Pick the sentence that sounds most like your team and follow that route.
 4. Check the facts, assumptions, tone and next action yourself.
 5. Write down what helped and what you changed.
 
-That is enough for a first useful test.
+That's enough for a first test.
 
 If you try it, [share quick feedback](feedback/README.md). A sentence about what helped or confused you is plenty.
 
 ## If You Have An Hour With Your Team
 
-Run [First Team Session](workshops/first-team-session.md). It is a 45 minute working session that gets people trying one safe task, comparing a rough attempt with an improved one and recording what they learned.
+Run the [First Team Session](workshops/first-team-session.md). It's a 45 minute working session. People try one safe task, compare a rough attempt with a better one, and write down what they learned.
 
 ## If You Have A Month
 
-Use the [First 30 Days Toolkit](#first-30-days-toolkit). It helps a small group test one or two jobs properly before anyone calls it a team standard. See the [fictional thirty day plan](examples/northstar-thirty-day-plan.md) for what running it actually looks like, from a rough first capture to a genuine decision at the end.
+Use the [First 30 Days Toolkit](#first-30-days-toolkit). It helps a small group test one or two jobs properly before anyone calls the method a team standard. The [fictional 30 day plan](examples/northstar-thirty-day-plan.md) shows what running it looks like, from a rough first note to a real decision at the end.
 
 ## First 30 Days Toolkit
 
 | Use this | When it helps |
 | --- | --- |
-| [Team Adoption Pulse](templates/team-adoption-pulse.md) | You want to understand where people are starting from without a big survey |
+| [Team Adoption Pulse](templates/team-adoption-pulse.md) | You want to know where people are starting from without a big survey |
 | [Use Case Experiment](templates/use-case-experiment.md) | You want a safe, fair test of one sales or customer job |
-| [Team Experiment Guide](guides/run-a-team-experiment.md) | You need a straightforward way to run the test |
-| [Experiment Review Check](checks/team-experiment-review.md) | You are deciding whether to keep, improve or stop a method |
-| [Monthly Team Review](templates/monthly-team-review.md) | You want to turn the learning into a sensible next step |
+| [Team Experiment Guide](guides/run-a-team-experiment.md) | You need a simple way to run the test |
+| [Experiment Review Check](checks/team-experiment-review.md) | You're deciding whether to keep, improve or stop a method |
+| [Monthly Team Review](templates/monthly-team-review.md) | You want to turn what you learned into a sensible next step |
 | [Team Playbook](templates/team-playbook.md) | A method has been useful enough to share with others |
-| [AI Connection Evaluation](templates/ai-connection-evaluation.md) | You are considering an API, plugin, MCP server or other connection |
+| [AI Connection Evaluation](templates/ai-connection-evaluation.md) | You're considering an API, plugin, MCP server or other connection |
 
 ## A Useful Rule
 
-Do not ask whether AI is "working" for the whole team. Ask whether a specific person used it to do one specific job more clearly, more quickly or more consistently, while keeping the right human checks.
+Don't ask whether AI is "working" for the whole team. Ask whether one person used it to do one job more clearly, quickly or consistently, with the right human checks still in place.
 
 That gives you something real to learn from.

@@ -1,16 +1,16 @@
 # AI for Commercial Teams
 
-Your company may already have AI licences. That does not mean people know where to start, what information is safe to use or how to turn a useful one off prompt into a better way of working.
+Your company may already have AI licences. That doesn't mean people know where to start, what information is safe to use, or how to turn one useful prompt into a better way of working.
 
-This project is a practical starting point for commercial teams that want more than "go and have a play".
+This is a starting point for commercial teams that want more than "go and have a play".
 
-It is for sales leaders, sales operations people, account executives, solutions consultants and customer success teams. It works with the tool your organisation already approves.
+It's for sales leaders, sales operations people, account executives, solutions consultants and customer success teams. It works with whichever tool your organisation has already approved.
 
-**New here?** [Start Here](START-HERE.md) picks your route: never used AI for this, using one tool but nothing is repeatable, a few people experimenting without coordination, or leading the whole team. It also covers what to do with fifteen minutes, an hour with a team, or a first month of testing.
+**New here?** [Start Here](START-HERE.md) helps you pick a route: you've never used AI for this, you use one tool but nothing is repeatable, a few people are trying things with no one joining them up, or you lead the whole team. It also says what to do with 15 minutes, an hour with a team, or a first month of testing.
 
 ## First 30 Days Toolkit
 
-Use these when you want to go beyond a one off prompt without jumping into a big rollout.
+Use these to go further than a one off prompt without starting a big rollout.
 
 | You need to | Use this |
 | --- | --- |
@@ -18,52 +18,52 @@ Use these when you want to go beyond a one off prompt without jumping into a big
 | Get more from the one tool you already have | [Work With One Approved Tool](guides/working-with-one-approved-tool.md) |
 | Test one use case with a small group | [Run A Team Experiment](guides/run-a-team-experiment.md) and the [Use Case Experiment](templates/use-case-experiment.md) |
 | Decide whether an AI connection is worth the risk | [Evaluate an AI Connection](guides/evaluate-an-ai-connection.md), the [Connection Check](checks/ai-connection-check.md) and the [Evaluation Card](templates/ai-connection-evaluation.md) |
-| Decide what the test actually showed | [Team Experiment Review Check](checks/team-experiment-review.md) |
-| Capture learning and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
-| Share a method that has earned its place | [Team Playbook Entry](templates/team-playbook.md) |
+| Decide what the test showed | [Team Experiment Review Check](checks/team-experiment-review.md) |
+| Record what you learned and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
+| Share a method that has proved useful | [Team Playbook Entry](templates/team-playbook.md) |
 
-See the [fictional Northstar sales first month review](examples/northstar-first-month-review.md), the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md), or the [fictional thirty day plan](examples/northstar-thirty-day-plan.md) that shows the toolkit's three stages in sequence, for complete examples of the route in action.
+For complete examples of the route, see the [fictional Northstar sales first month review](examples/northstar-first-month-review.md), the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md), or the [fictional 30 day plan](examples/northstar-thirty-day-plan.md), which runs through the toolkit's three stages in order.
 
 ## A Shared Asset You Can Try
 
-[Call Follow Up Draft](shared-assets/call-follow-up-draft/README.md) is a complete example of a team method that has earned its place through a fictional repeat test. It includes the prompt, the quality check and an honest account of what the team did not prove.
+[Call Follow Up Draft](shared-assets/call-follow-up-draft/README.md) is a complete team method, shared only after a fictional team tested it more than once. It includes the prompt, the quality check and what the team did not prove.
 
-[Account Review Brief](shared-assets/account-review-brief/README.md) shows the same idea in Customer Success. It helps prepare an internal account discussion while keeping account judgement, commercial decisions and customer contact with the person responsible.
+[Account Review Brief](shared-assets/account-review-brief/README.md) does the same for Customer Success. It helps you prepare for an internal account discussion. The person responsible still judges the account, makes the commercial decisions and talks to the customer.
 
 ## Help Make It Better
 
-Tried something here, or got stuck? You do not need to write a long review. Use the [short feedback form](https://github.com/shaunmarsden/ai-for-commercial-teams/issues/new?template=feedback.yml) to tell me what helped, what was unclear and whether it felt worth the effort. Please do not include customer, employer, confidential or personal information.
+Tried something here, or got stuck? You don't need to write a long review. Use the [short feedback form](https://github.com/shaunmarsden/ai-for-commercial-teams/issues/new?template=feedback.yml) to tell me what helped, what was unclear and whether it felt worth the effort. Please don't include customer, employer, confidential or personal information.
 
-You can also see [what the form asks](feedback/README.md) before you start.
+You can see [what the form asks](feedback/README.md) before you start.
 
 ## The Simple Model
 
-| Stage | The practical question |
+| Stage | The question to ask |
 | --- | --- |
 | Start | What safe, low risk job would make today easier? |
 | Repeat | What did a good result need as input and checking? |
 | Share | Can someone else understand and adapt it? |
 | Improve | Did it save time, improve quality or expose a gap? |
-| Govern | What must remain with a person or stay out of the tool? |
+| Govern | What must stay with a person, or stay out of the tool? |
 
 [![A practical model for commercial AI adoption](assets/diagrams/29-ai-for-commercial-teams.svg)](START-HERE.md)
 
 ## What Is Here
 
 - A starting route for individuals and teams
-- A private [context card](templates/team-context-card.md) that helps an AI understand a role without adding sensitive data
-- A first team session guide that does not require a large training programme
+- A private [context card](templates/team-context-card.md) that tells an AI about a role without adding sensitive data
+- A guide to a first team session that doesn't need a big training programme
 - A manager playbook, team learning log and shared asset check
-- A first 30 days toolkit for small, evidence led team experiments
+- A first 30 days toolkit for small team experiments based on evidence
 - A guide and evaluation card for connecting AI to other tools safely
 - Fictional examples of a 30 day plan and first month reviews for sales and Customer Success
 - A safety check for commercial use
 
 ## For Managers
 
-The [Manager Playbook](guides/manager-playbook.md) gives you a simple route from a first session to a method that might be worth sharing across the team. It includes a [team learning log](templates/team-learning-log.md), a guide for [improving a weak first prompt](guides/improve-a-first-prompt.md) and a [shared team asset check](checks/shared-team-asset-check.md).
+The [Manager Playbook](guides/manager-playbook.md) takes you from a first session to a method that might be worth sharing across the team. It includes a [team learning log](templates/team-learning-log.md), a guide to [improving a weak first prompt](guides/improve-a-first-prompt.md) and a [shared team asset check](checks/shared-team-asset-check.md).
 
-See the [fictional Northstar manager review](examples/northstar-manager-review.md) for an honest example of what a first round of testing can and cannot show.
+For what a first round of testing can and can't show, see the [fictional Northstar manager review](examples/northstar-manager-review.md).
 
 ## What This Is Not
 
@@ -72,14 +72,14 @@ See the [fictional Northstar manager review](examples/northstar-manager-review.m
 - IT policy, legal advice or a security approval
 - A reason to put customer or employer information into an unapproved AI tool
 
-The useful habit is simple: use approved information, check the output and keep a person responsible for the decision and action.
+The habit is simple: use approved information, check the output, and keep a person responsible for the decision and the action.
 
 ## Current Status
 
-This is a practical foundation. The examples are fictional and the routes are hypotheses to test with real teams. They do not prove adoption or productivity impact yet.
+The examples are fictional. The routes are ideas I still need to test with real teams. They don't yet prove that teams adopt them or that they improve productivity.
 
-See the [roadmap](ROADMAP.md) for the next pieces worth building.
+The [roadmap](ROADMAP.md) lists what I think is worth building next.
 
 ## Part of a Family
 
-Four free tools for commercial teams experimenting with AI, all generalising patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows). This one is the entry point for team-wide adoption. Already know what you need instead? [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague idea into a first test, [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether a tool actually helps with a task, and [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) practises the conversations themselves.
+This is one of four free tools for commercial teams trying out AI. All four take patterns from [Practical AI Sales Workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) and apply them more widely. Start with this one if you want a whole team using AI. Already know what you need? [Sales Value Workshop](https://github.com/shaunmarsden/sales-value-workshop) turns a vague idea into a first test, [Sales Proof Bench](https://github.com/shaunmarsden/sales-proof-bench) tests whether a tool helps with a task, and [Sales Conversation Gym](https://github.com/shaunmarsden/sales-conversation-gym) lets you practise the conversations themselves.

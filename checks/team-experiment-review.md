@@ -1,6 +1,6 @@
 # Team Experiment Review Check
 
-Use this at the end of a small test. A yes answer does not automatically mean "roll it out". It means there is enough evidence for the next sensible step.
+Use this at the end of a small test. A yes doesn't mean "roll it out". It means there's enough evidence for the next sensible step.
 
 | Check | Yes / No / Unclear | Notes |
 | --- | --- | --- |
@@ -15,11 +15,13 @@ Use this at the end of a small test. A yes answer does not automatically mean "r
 
 ## Pick One Outcome
 
-- **Keep testing:** useful signal, but not enough repeat evidence yet.
-- **Improve:** change the job, input, output shape or human check, then test again.
-- **Create a draft shared asset:** the method is repeatable enough for more people to try carefully.
-- **Stop:** it did not help enough, was too hard to check or did not fit the boundary.
+| Outcome | When to choose it |
+| --- | --- |
+| Keep testing | It looks useful, but there isn't enough repeat evidence yet |
+| Improve | Change the job, input, output shape or human check, then test again |
+| Create a draft shared asset | The method is repeatable enough for more people to try carefully |
+| Stop | It didn't help enough, was too hard to check or didn't fit the boundary |
 
 ## Before You Share Anything
 
-Run the [Commercial AI Safety Check](commercial-ai-safety-check.md) and the [Shared Team Asset Check](shared-team-asset-check.md). The experiment can produce learning even when it does not produce a team standard.
+Run the [Commercial AI Safety Check](commercial-ai-safety-check.md) and the [Shared Team Asset Check](shared-team-asset-check.md). An experiment can teach you something even when it doesn't produce a team standard.

@@ -1,6 +1,6 @@
 # Improve a First Prompt
 
-A weak first prompt is normal. Treat it as a draft of a working method, not proof that AI is useless or that someone is bad at using it.
+A weak first prompt is normal. Treat it as a first draft of a method, not proof that AI is useless or that someone is bad at using it.
 
 ## Find the Missing Piece
 
@@ -31,6 +31,6 @@ Ask the person to rewrite the prompt in four parts:
 
 ## Compare, Do Not Guess
 
-Run the old version and the new version against the same safe sample. Ask which is easier to check and more useful for the real job.
+Run the old and new versions on the same safe sample. Ask which is easier to check and more useful for the real job.
 
-The improved prompt does not become a team asset yet. Record it in the [Team Learning Log](../templates/team-learning-log.md) and see whether another person can adapt it.
+The better prompt isn't a team asset yet. Record it in the [Team Learning Log](../templates/team-learning-log.md) and see whether another person can adapt it.
