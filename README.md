@@ -22,7 +22,7 @@ Use these to go further than a one off prompt without starting a big rollout.
 | Record what you learned and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
 | Share a method that has proved useful | [Team Playbook Entry](templates/team-playbook.md) |
 
-For complete examples of the route, see the [fictional Northstar sales first month review](examples/northstar-first-month-review.md), the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md), or the [fictional 30 day plan](examples/northstar-thirty-day-plan.md), which runs through the toolkit's three stages in order.
+For complete examples of the route, see the [fictional Northstar sales first month review](examples/northstar-first-month-review.md), the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md), or the [fictional 30 day plan](examples/northstar-thirty-day-plan.md), which sets out a first month in three ten day steps.
 
 ## A Shared Asset You Can Try
 
@@ -55,9 +55,9 @@ You can see [what the form asks](feedback/README.md) before you start.
 - A guide to a first team session that doesn't need a big training programme
 - A manager playbook, team learning log and shared asset check
 - A first 30 days toolkit for small team experiments based on evidence
-- A guide and evaluation card for connecting AI to other tools safely
+- A guide and evaluation card for connecting AI to other tools safely, with a [fictional connection review](examples/fictional-mcp-connection-review.md)
 - Fictional examples of a 30 day plan and first month reviews for sales and Customer Success
-- A safety check for commercial use
+- A [safety check](checks/commercial-ai-safety-check.md) for commercial use
 
 ## For Managers
 

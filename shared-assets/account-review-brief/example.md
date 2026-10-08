@@ -36,6 +36,8 @@ Four volunteers used fictional account notes in the first session, then tried th
 >
 > **Internal review agenda:** 1. What do we actually know about who is still using the product day to day? 2. Is there a champion change we have not tracked? 3. What would we need to know before the renewal conversation?
 
+I checked this draft against the revised prompt. It has no Open actions section, although the table below says the team kept one. The notes confirm no actions, so the section should still have appeared, as it did in Version 1.
+
 | What the volunteers found | What the team changed or kept |
 | --- | --- |
 | The brief made actions and missing owners easier to spot | Kept a separate open actions section |

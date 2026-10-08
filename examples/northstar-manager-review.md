@@ -29,7 +29,7 @@ The team changed the method to require a short evidence section and a final huma
 
 The team will test the follow up method again with a clearer input format. It will not become a shared asset yet because only one type of call has been tested.
 
-The discovery question method can be used by volunteers, but it needs a clearer safe input guide before it is shared more widely, the Underwood case is the reference example of why.
+The discovery question method can be used by volunteers, but it needs a clearer safe input guide before it is shared more widely. The Underwood case is the reference example of why.
 
 ## What the Review Did Not Prove
 

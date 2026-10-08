@@ -51,7 +51,7 @@ The first fix is usually in one of those places.
 
 ## Do Not Turn It Into A Tool Competition
 
-You may compare tools one day. For most teams, that isn't the useful first step.
+You may compare tools one day. For many teams, that isn't the useful first step.
 
 Start with one approved tool, one safe job and one way to review the output. If that works, you have a method you can improve. If it doesn't, you've learned where the real problem is.
 
