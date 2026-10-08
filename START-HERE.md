@@ -31,7 +31,7 @@ Run the [First Team Session](workshops/first-team-session.md). It's a 45 minute 
 
 ## If You Have A Month
 
-Use the [First 30 Days Toolkit](#first-30-days-toolkit). It helps a small group test one or two jobs properly before anyone calls the method a team standard. The [fictional 30 day plan](examples/northstar-thirty-day-plan.md) shows what running it looks like, from a rough first note to a real decision at the end.
+Use the [First 30 Days Toolkit](#first-30-days-toolkit). It helps a small group test one or two jobs properly before anyone calls the method a team standard. The [fictional 30 day plan](examples/northstar-thirty-day-plan.md) shows what running it looks like, from a rough first capture to a review of the evidence at the end.
 
 ## First 30 Days Toolkit
 
