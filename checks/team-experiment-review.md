@@ -11,6 +11,7 @@ Use this at the end of a small test. A yes doesn't mean "roll it out". It means 
 | People could explain what they had to correct or check |  |  |
 | The method was useful to more than one person |  |  |
 | The method did not make customer decisions, commitments or system changes automatically |  |  |
+| Each claim says whether it shows use, repeat use, quality or a result ([the four kinds](../templates/monthly-team-review.md#what-kind-of-evidence-is-this)) |  |  |
 | The team has named what the evidence does not prove |  |  |
 
 ## Pick One Outcome

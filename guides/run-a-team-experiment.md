@@ -66,4 +66,4 @@ Stopping a weak method is progress. It frees people to try something better.
 
 It can help to record time saved, but don't claim a return on investment from a handful of attempts. Early results tell you whether a method deserves more testing. They don't prove a productivity figure for the whole team.
 
-The [Monthly Team Review](../templates/monthly-team-review.md) helps a manager decide what the evidence is strong enough to say.
+The [Monthly Team Review](../templates/monthly-team-review.md) helps a manager decide what the evidence is strong enough to say. It asks which of four kinds each finding is: use, repeat use, quality or a result. Counting logins is use, not a result.
