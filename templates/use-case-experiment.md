@@ -44,4 +44,4 @@ Use this to set up one small team test before people start using an AI tool in n
 
 At the end of the test, should we keep testing, improve the method, create a draft shared asset or stop?
 
-Use [Experiment Review Check](../checks/team-experiment-review.md) before deciding.
+Use the [Team Experiment Review Check](../checks/team-experiment-review.md) before deciding.
