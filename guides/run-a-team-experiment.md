@@ -51,13 +51,13 @@ No one needs to share customer details or private prompts to report this.
 
 ## Review The Evidence Together
 
-Hold a short review using the [Experiment Review Check](../checks/team-experiment-review.md). There are four reasonable outcomes:
+Hold a short review using the [Team Experiment Review Check](../checks/team-experiment-review.md). There are four reasonable outcomes:
 
 | Outcome | What it means | What to do next |
 | --- | --- | --- |
 | Keep testing | It helped, but the evidence is still thin | Run a second small test with the same boundary |
 | Improve | The job is useful but the input, output or check needs work | Change one thing and try again |
-| Share carefully | More than one person found it useful and safe | Turn it into a draft shared asset and name an owner |
+| Create a draft shared asset | More than one person found it useful and safe | Write it up for more people to try carefully, and name an owner |
 | Stop | It added little value or got in the way too much | Record what you learned and choose another job |
 
 Stopping a weak method is progress. It frees people to try something better.
