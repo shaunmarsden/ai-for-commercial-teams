@@ -40,7 +40,7 @@ Use the [First 30 Days Toolkit](#first-30-days-toolkit). It helps a small group 
 | [Team Adoption Pulse](templates/team-adoption-pulse.md) | You want to know where people are starting from without a big survey |
 | [Use Case Experiment](templates/use-case-experiment.md) | You want a safe, fair test of one sales or customer job |
 | [Team Experiment Guide](guides/run-a-team-experiment.md) | You need a simple way to run the test |
-| [Experiment Review Check](checks/team-experiment-review.md) | You're deciding whether to keep, improve or stop a method |
+| [Team Experiment Review Check](checks/team-experiment-review.md) | You're deciding whether to keep, improve or stop a method |
 | [Monthly Team Review](templates/monthly-team-review.md) | You want to turn what you learned into a sensible next step |
 | [Team Playbook](templates/team-playbook.md) | A method has been useful enough to share with others |
 | [AI Connection Evaluation](templates/ai-connection-evaluation.md) | You're considering an API, plugin, MCP server or other connection |
