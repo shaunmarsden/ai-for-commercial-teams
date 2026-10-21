@@ -6,19 +6,19 @@ Northstar first tested the [Call Follow Up Draft](README.md) method with five vo
 
 ## The First Test: What Actually Happened
 
-Dana, an account executive, used the method after a call with Owen Bramwell at Bramwell & Co.
+Dana, an account executive, used the method after a call with Emrys Bramwell at Bramwell & Co.
 
 **Dana's notes, pasted into the prompt:**
 
-> Bramwell & Co, currently on Starter tier. Owen mentioned their team has grown to 12 seats; Starter caps at 10. He asked for a case study from a similar-sized company on Growth tier. He said "maybe worth looking at Growth before our renewal in Q2." No next call booked; he said he'd have a look and come back to me.
+> Bramwell & Co, currently on Starter tier. Emrys mentioned their team has grown to 12 seats; Starter caps at 10. He asked for a case study from a similar-sized company on Growth tier. He said "maybe worth looking at Growth before our renewal in Q2." No next call booked; he said he'd have a look and come back to me.
 
 **First draft (Version 1), as the tool produced it:**
 
-> Subject: Great speaking today, Owen
+> Subject: Great speaking today, Emrys
 >
-> Hi Owen, thanks for the call. As discussed, Bramwell & Co is ready to move to Growth ahead of your Q2 renewal, and we'll reconvene next Thursday to walk through the details. I'll also send over the case study you asked about.
+> Hi Emrys, thanks for the call. As discussed, Bramwell & Co is ready to move to Growth ahead of your Q2 renewal, and we'll reconvene next Thursday to walk through the details. I'll also send over the case study you asked about.
 
-**What was wrong with it:** two things. "Ready to move to Growth" turns "maybe worth looking at" into a decision Owen never made. "We'll reconvene next Thursday" invents a call nobody booked. Owen said he'd come back to Dana, not the other way round.
+**What was wrong with it:** two things. "Ready to move to Growth" turns "maybe worth looking at" into a decision Emrys never made. "We'll reconvene next Thursday" invents a call nobody booked. Emrys said he'd come back to Dana, not the other way round.
 
 ## The Second Test
 
@@ -28,7 +28,7 @@ Three volunteers, including Dana, used a revised version over two weeks. The rev
 
 > Subject: Following up from today
 >
-> Hi Owen, thanks for the call. I hear Growth might be worth a look ahead of your Q2 renewal, no pressure either way. I'll send the case study you asked about so you've got something concrete to weigh up.
+> Hi Emrys, thanks for the call. I hear Growth might be worth a look ahead of your Q2 renewal, no pressure either way. I'll send the case study you asked about so you've got something concrete to weigh up.
 >
 > Check Before Sending: confirm whether "maybe worth looking at" is worth restating this plainly, and there's no next call booked yet, so nothing above should read as one.
 
