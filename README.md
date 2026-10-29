@@ -21,6 +21,7 @@ Use these to go further than a one off prompt without starting a big rollout.
 | Decide what the test showed | [Team Experiment Review Check](checks/team-experiment-review.md) |
 | Record what you learned and agree the next step | [Monthly Team Review](templates/monthly-team-review.md) |
 | Share a method that has proved useful | [Team Playbook Entry](templates/team-playbook.md) |
+| Tell another team what you tested, without customer data | [Shareable Test Summary](templates/shareable-test-summary.md) |
 
 For complete examples of the route, see the [fictional Northstar sales first month review](examples/northstar-first-month-review.md), the [fictional Customer Success first month review](examples/northstar-customer-success-first-month-review.md), or the [fictional 30 day plan](examples/northstar-thirty-day-plan.md), which sets out a first month in three ten day steps.
 

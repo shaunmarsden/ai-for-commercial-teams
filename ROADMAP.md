@@ -1,9 +1,5 @@
 # Roadmap
 
-## Next Foundations
-
-- A lightweight way for teams to share what they tested without sharing customer data
-
 ## Only After Team Evidence
 
 - A downloadable team starter pack
@@ -27,5 +23,6 @@
 - A complete shared asset for drafting a call follow up
 - A second worked example for Customer Success, with an account review brief and a first month review
 - A short public feedback route that does not ask people for customer information
+- A [shareable test summary](templates/shareable-test-summary.md) for telling another team what you tested, without customer data
 
 The test is whether people use this to do better work, not whether the project has more pages.
