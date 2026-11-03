@@ -69,8 +69,10 @@ An asset is ready only when:
 - the safe input is clear;
 - the output is easy to check;
 - the common mistakes are known;
-- someone owns keeping it current; and
+- someone owns keeping it current, including access and exception handling if the method runs repeatedly; and
 - it doesn't make decisions or take actions automatically.
+
+If the asset will be used as a continuing team responsibility, check who runs it, whose approved connections it uses, who can see results, who signs off each output and who takes over when the original creator leaves. A reusable prompt and a team-operated process are different things. See the [Shared Team Asset Check](../checks/shared-team-asset-check.md).
 
 If it isn't ready, keep it in the learning log rather than publishing it as a team standard.
 
